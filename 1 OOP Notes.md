@@ -74,3 +74,7 @@ Note that unlike abstract classes, we do not need to import any module to use th
 #### Semantic Meaning
 
 Also static methods typically have some relation to the class itself 
+
+## Class Variables
+
+Class variables are variables that belong to the class itself rather than any specific instance
